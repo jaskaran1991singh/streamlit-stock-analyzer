@@ -54,5 +54,11 @@ A user-friendly **Streamlit dashboard** designed for seamless stock and financia
 
 ---
 
+## 🔮 Future Roadmap:
+✅ **Capability to read text from images** for enhanced document analysis.  
+✅ **Option to switch between annual report-based Q&A and web-based Q&A** for a more flexible experience.
+
+---
+
 Elevate your **stock analysis** and **financial understanding** with this **comprehensive Streamlit dashboard**! 🚀
 
